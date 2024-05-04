@@ -5,6 +5,7 @@
   align-items: center;
   background-color: #f5f5f5;
   padding: 40px 20px;
+  margin: 0 20px;
 }
 
 .list ol {
@@ -28,4 +29,10 @@
   font-size: 0.875rem;
   font-family: var(--font-hiragino-kaku-gothic-pron);
   color: #333;
+}
+
+
+@media screen and (min-width: 1024px) {
+
+    
 }

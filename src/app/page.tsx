@@ -8,9 +8,11 @@ export default function Home() {
     <div>
       <Header />
       <main>
-        <Hero />
         <div className={styles.container}>
+          <Hero />
+          <div className={styles.inner}>
           <Index />
+          </div>
         </div>
       </main>
     </div>
