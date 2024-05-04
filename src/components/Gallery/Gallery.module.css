@@ -1,0 +1,13 @@
+.img_box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* 中央に寄せる */
+    gap: 15px;
+}
+
+.img {
+   width: 100%;
+   max-width: 392px;
+   height: auto;
+}
