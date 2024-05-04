@@ -1,0 +1,11 @@
+.footer {
+  width: 100%;
+  text-align: center;
+  margin: 15px 0;
+}
+
+.text {
+  font-size: 0.625rem;
+  font-family: var(--font-hiragino-kaku-gothic-pron);
+  color: #333;
+}

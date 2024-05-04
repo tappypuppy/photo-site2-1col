@@ -4,6 +4,7 @@ import Hero from "@/components/Hero/Hero";
 import Index from "@/components/Index/Index";
 import Gallery from "@/components/Gallery/Gallery";
 import Detail from "@/components/Detail/Detail";
+import Footer from "@/components/Footer/Footer";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <Footer />
     </div>
   );
 }
