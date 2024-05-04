@@ -14,9 +14,9 @@ export default function Home() {
         <div className={styles.container}>
           <Hero />
           <div className={styles.inner}>
-          <Index />
-          <Gallery />
-          <Detail />
+            <Index />
+            <Gallery />
+            <Detail />
           </div>
         </div>
       </main>
